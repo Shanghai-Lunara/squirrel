@@ -1,6 +1,6 @@
-module github.com/Masterminds/squirrel
+module github.com/Shanghai-Lunara/squirrel
 
-go 1.14
+go 1.15
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
